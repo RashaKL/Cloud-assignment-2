@@ -1,1 +1,1 @@
-# Cloud-assignment-2
+# coding-project-template
